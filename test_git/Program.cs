@@ -11,6 +11,7 @@ namespace test_git
         static void Main(string[] args)
         {
             Console.WriteLine("hello Tri");
+            Console.WriteLine("Hello anh em");
             Console.ReadKey();
         }
     }
